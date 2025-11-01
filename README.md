@@ -1,5 +1,5 @@
 # LABORATORIO-2
-Integrantes: Mateo Bedoya, Juan Pablo Clavijo, Valeria Piedrahita.
+#### Integrantes: Mateo Bedoya, Juan Pablo Clavijo, Valeria Piedrahita.
 
 ### 1. Análisis estadístico.
 ¿Cuál es el promedio, mínimo y máximo de los atributos base (HP, Attack, Defense, Speed) de todos los Pokémon? 
@@ -68,3 +68,5 @@ Construya un gráfico de violín o boxplot múltiple comparando el atributo Spee
 
 El gráfico muestra la distribución del atributo Speed Base entre los tipos Electric, Flying y Ground.
 Se observa que los Pokémon de tipo Electric presentan las velocidades base más altas en promedio, seguidos por los de tipo Flying, mientras que los de tipo Ground son, en general, más lentos.
+## Conclusión final.
+Las estadísticas base de los Pokémon están mayormente determinadas por el tipo elemental y el rol de combate asociado a ese tipo. Además, el tamaño y peso del Pokémon influyen especialmente en atributos como HP, Defensa y Ataque, reflejando una lógica física. Por último, las correlaciones entre estadísticas muestran que los Pokémon tienden a estar especializados (ofensivos, defensivos o veloces), más que equilibrados.
